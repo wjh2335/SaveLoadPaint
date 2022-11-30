@@ -11,7 +11,14 @@ WinUI 3 저장 불러오기 그림판입니다.
 컴파일을 한 번 해보고 Click Me 버튼이 나온다면 다음 단계로 넘어갑니다.
 
 ### 3. 소스코드
-MainWindow.xaml, MainWindow.xaml.cpp, MainWindow.xaml.h 세 소스코드를 복사 후 붙여넣기 합니다.
+
+- MainWindow.xaml
+
+- MainWindow.xaml.cpp
+
+- MainWindow.xaml.h
+
+세 소스코드를 복사 후 붙여넣기 합니다.
 
 ### 4. 프로젝트 이름 변경
 
